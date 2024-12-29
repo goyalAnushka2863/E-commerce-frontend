@@ -1,5 +1,5 @@
 import React, {useEffect} from 'react'
-import Image from '../../assets/images/main-pic.png'
+import Image from '../../public/assets/images/main-pic.png'
 const Skincare = () => {
   useEffect(() => {
     // Scroll to the top when the component is mounted

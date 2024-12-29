@@ -1,9 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { IoIosArrowBack, IoIosArrowForward } from 'react-icons/io';
 import { LuHeart } from "react-icons/lu";
-import Pic1 from '../../assets/images/card-pic-1.png';
-import Pic2 from '../../assets/images/card-pic-2.png';
-import Pic3 from '../../assets/images/card-pic-3.png';
 import { useNavigate } from 'react-router-dom';
 import axiosInstance from '../../utils/AxiosInstance';
 const ProductDetails = ({ product }) => {
