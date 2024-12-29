@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react'
-import logo from '../assets/images/image.png'
+import logo from '../../public/assets/images/image.png'
 import { FiShoppingCart } from "react-icons/fi";
 import { IoIosArrowForward } from "react-icons/io";
 import { IoSearch } from "react-icons/io5";
@@ -8,7 +8,7 @@ import { useNavigate } from 'react-router-dom';
 import { FiTwitter } from "react-icons/fi";
 import { FaInstagram } from "react-icons/fa";
 import { FiFacebook } from "react-icons/fi";
-import { Input } from 'postcss';
+import { Input } from 'postcss';                                                                                                                            
 const Header = ({isOpen, setIsOpen, current, onSearchProduct, handleClearSearch}) => {
     useEffect(() => {
     
