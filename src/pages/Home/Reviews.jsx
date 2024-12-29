@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import Review from '../../public/assets/images/review.jpg';
+import Review from '../../assets/images/review.jpg';
 import { IoIosArrowBack, IoIosArrowForward } from 'react-icons/io';
 
 const Reviews = () => {

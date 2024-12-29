@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react'
-import logo from '../../public/assets/images/image.png'
+import logo from '../assets/images/image.png'
 import { FiTwitter } from "react-icons/fi";
 import { FaInstagram } from "react-icons/fa";
 import { FiFacebook } from "react-icons/fi";

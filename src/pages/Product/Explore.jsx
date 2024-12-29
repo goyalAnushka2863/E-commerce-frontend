@@ -1,12 +1,12 @@
 import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { IoIosArrowBack, IoIosArrowForward } from 'react-icons/io';
-import Pic1 from '../../public/assets/images/product-pic-1.png';
-import Pic2 from '../../public/assets/images/product-pic-2.png';
-import Pic3 from '../../public/assets/images/product-pic-3.png';
-import Pic4 from '../../public/assets/images/product-pic-4.png';
-import Pic5 from '../../public/assets/images/product-pic-5.png';
-import Pic6 from '../../public/assets/images/product-pic-6.png';
+import Pic1 from '../../assets/images/product-pic-1.png';
+import Pic2 from '../../assets/images/product-pic-2.png';
+import Pic3 from '../../assets/images/product-pic-3.png';
+import Pic4 from '../../assets/images/product-pic-4.png';
+import Pic5 from '../../assets/images/product-pic-5.png';
+import Pic6 from '../../assets/images/product-pic-6.png';
 
 const Explore = () => {
     useEffect(() => {
