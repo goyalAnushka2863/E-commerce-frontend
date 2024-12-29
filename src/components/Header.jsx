@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react'
-import logo from '../../assets/images/image.png'
+import logo from '../../public/assets/images/image.png'
 import { FiShoppingCart } from "react-icons/fi";
 import { IoIosArrowForward } from "react-icons/io";
 import { IoSearch } from "react-icons/io5";
